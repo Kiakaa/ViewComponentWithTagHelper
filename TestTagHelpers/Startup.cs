@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Logging;
 
 namespace TestTagHelpers
@@ -29,6 +32,15 @@ namespace TestTagHelpers
         {
             // Add framework services.
             services.AddMvc();
+
+            //注入组件
+            var assmebly = typeof(Winter.Component.Tasks).GetTypeInfo().Assembly;
+            var embeddedFileProvider = new EmbeddedFileProvider(assmebly, "Winter.Component");
+
+            services.Configure<RazorViewEngineOptions>(options =>
+            {
+                options.FileProviders.Add(embeddedFileProvider);
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

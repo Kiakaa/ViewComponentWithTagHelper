@@ -15,3 +15,12 @@ D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.Ass
 D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.AssemblyInfo.cs
 D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.dll
 D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.pdb
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\bin\Debug\netcoreapp2.1\Winter.Component.deps.json
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\bin\Debug\netcoreapp2.1\Winter.Component.dll
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\bin\Debug\netcoreapp2.1\Winter.Component.pdb
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.csprojAssemblyReference.cache
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.csproj.CoreCompileInputs.cache
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.AssemblyInfoInputs.cache
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.AssemblyInfo.cs
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.dll
+D:\Kino\NetCore\Demo-ViewComponent.TagHelpers.bug\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.pdb

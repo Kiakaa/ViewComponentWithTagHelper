@@ -1,13 +1,20 @@
 ﻿@*@using Winter.Component
-@addTagHelper "*, Winter.Component"*@
+    @addTagHelper "*, Winter.Component"*@
 
 <h1>Index.cshtml</h1>
-<h3>vc:taghelper usage. in index View page</h3>
-@*<vc:tasks message="vc:Message From Index Veiw Page"></vc:tasks>*@
-<vc:test message="Test" ></vc:test>
-<hr />
-<h3>taghelper usage. in index View page</h3>
+<hr style="border-color:red" />
+<h3>vc:tasks in index View page</h3>
+<vc:tasks message="vc:Message From Index Veiw Page"></vc:tasks>
+
+<hr style="border-color:red" />
+<h3>vc:test in index View page</h3>
+    <vc:test message="Test"></vc:test>
+
+<hr style="border-color:red" />
+<h3>winter-tasks: in index View page</h3>
 <winter-tasks message="tg:Message From Index Veiw Page"></winter-tasks>
 
-<a href="/Home/LoadCopnentViewWithTaghelper">LoadCopnentViewWithTaghelper</a>
+@*
+    <hr style="border-color:red" />
+    <a href="/Home/LoadCopnentViewWithTaghelper">LoadCopnentViewWithTaghelper</a>*@
 
