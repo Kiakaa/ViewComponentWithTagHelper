@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestTagHelpers", "TestTagHelpers\TestTagHelpers.csproj", "{D53A1138-36CB-438E-9E7F-E35831F557C9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winter.Component", "..\..\..\Develop\ClientComponent - 副本\Winter.Component.csproj", "{733D8D95-107D-4F36-8F87-01777740A8C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Winter.Component", "ClientComponent\Winter.Component.csproj", "{88B4092A-50CE-4FFC-AC30-696459CD6093}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D53A1138-36CB-438E-9E7F-E35831F557C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D53A1138-36CB-438E-9E7F-E35831F557C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D53A1138-36CB-438E-9E7F-E35831F557C9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{733D8D95-107D-4F36-8F87-01777740A8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{733D8D95-107D-4F36-8F87-01777740A8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{733D8D95-107D-4F36-8F87-01777740A8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{733D8D95-107D-4F36-8F87-01777740A8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B4092A-50CE-4FFC-AC30-696459CD6093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B4092A-50CE-4FFC-AC30-696459CD6093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B4092A-50CE-4FFC-AC30-696459CD6093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B4092A-50CE-4FFC-AC30-696459CD6093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

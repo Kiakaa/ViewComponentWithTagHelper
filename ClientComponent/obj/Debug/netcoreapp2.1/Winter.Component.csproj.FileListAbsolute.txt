@@ -1,0 +1,17 @@
+D:\Develop\ClientComponent\bin\Debug\netcoreapp2.1\Winter.Component.deps.json
+D:\Develop\ClientComponent\bin\Debug\netcoreapp2.1\Winter.Component.dll
+D:\Develop\ClientComponent\bin\Debug\netcoreapp2.1\Winter.Component.pdb
+D:\Develop\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.csprojAssemblyReference.cache
+D:\Develop\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.csproj.CoreCompileInputs.cache
+D:\Develop\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.AssemblyInfoInputs.cache
+D:\Develop\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.AssemblyInfo.cs
+D:\Develop\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.dll
+D:\Develop\ClientComponent\obj\Debug\netcoreapp2.1\Winter.Component.pdb
+D:\Develop\ClientComponent - 副本\bin\Debug\netcoreapp2.1\Winter.Component.deps.json
+D:\Develop\ClientComponent - 副本\bin\Debug\netcoreapp2.1\Winter.Component.dll
+D:\Develop\ClientComponent - 副本\bin\Debug\netcoreapp2.1\Winter.Component.pdb
+D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.csproj.CoreCompileInputs.cache
+D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.AssemblyInfoInputs.cache
+D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.AssemblyInfo.cs
+D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.dll
+D:\Develop\ClientComponent - 副本\obj\Debug\netcoreapp2.1\Winter.Component.pdb

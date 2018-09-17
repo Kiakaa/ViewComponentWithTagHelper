@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Winter.Component</id>
+    <version>1.5.11</version>
+    <authors>Winter.Component</authors>
+    <owners>Winter.Component</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>8.17 1. 前端Index页面头部大字在手机版时隐藏
+       2.后台对可空类型的int和bool加了判断 为空给一个默认值
+8.29 1.task、checklist、note更新ok。
+       2.ClientComponent/Views下添加_ViewImports.cshtml。
+8.30  处理可空返回值
+9.3 1.系统导航菜单无法显示问题处理：将ClientComponent/Views下_ViewImports.cshtml，移动到ClientComponent/Views/Shared下。
+     2.重新发包，更新错误：1.5.9版本包产生的Winter.Component版本错误。
+9.6 1.实现Excel模板文件上传。
+     2.实现程序Excel下载下拉菜单的显示并绑定文件下载链接。</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Winter.Infra" version="1.6.7" exclude="Build,Analyzers" />
+        <dependency id="Winter.System.Domain" version="1.2.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Develop\ClientComponent\bin\Debug\netcoreapp2.1\Winter.Component.dll" target="lib\netcoreapp2.1\Winter.Component.dll" />
+  </files>
+</package>
